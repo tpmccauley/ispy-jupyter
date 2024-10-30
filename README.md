@@ -12,5 +12,6 @@ $ jupyter lab
 *  [pythreejs docs](https://pythreejs.readthedocs.io/en/stable/index.html)
 *  [pythreejs github](https://github.com/jupyter-widgets/pythreejs)
 *  [IPython](https://ipython.readthedocs.io/en/stable/index.html)
+*  [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/index.html)
 *  [three.js](https://threejs.org/)
 
