@@ -2,6 +2,8 @@
 
 # ispy-jupyter
 
+# NOTE: this is a prototype, development has moved to https://github.com/cms-outreach/ispy-nanoaod
+
 ## Running
 ```
 $ virtualenv ispy
